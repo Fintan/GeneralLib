@@ -1,0 +1,4 @@
+-main GeneralLibTests
+-js dummy.js
+-lib utest
+-cp src
